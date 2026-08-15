@@ -21,6 +21,7 @@
 class Fauzi {
   final String location = 'Malang, Indonesia 🇮🇩';
   final String role = 'Flutter Developer';
+  final String portfolio = 'https://ziiidev.vercel.app';
   final List<String> languages = ['Indonesian', 'English'];
   final String education = 'ITB Asia Malang, 2022';
 
@@ -125,7 +126,10 @@ class Fauzi {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/GANTI-USERNAME-LINKEDIN">
+<a href="https://ziiidev.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-02569B?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/moh-fauzi-slamet-709313212/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:mohfauzislamet@gmail.com">
