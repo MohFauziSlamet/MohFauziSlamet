@@ -7,9 +7,15 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=MohFauziSlamet&label=Profile%20views&color=02569B&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/MohFauziSlamet?label=Followers&style=for-the-badge&color=02569B" alt="followers" />
-<img src="https://img.shields.io/github/stars/MohFauziSlamet?label=Stars&style=for-the-badge&color=02569B" alt="stars" />
+<a href="https://github.com/MohFauziSlamet">
+  <img src="https://komarev.com/ghpvc/?username=MohFauziSlamet&label=Profile%20views&color=02569B&style=for-the-badge" alt="profile views" />
+</a>
+<a href="https://github.com/MohFauziSlamet?tab=followers">
+  <img src="https://img.shields.io/github/followers/MohFauziSlamet?label=Followers&style=for-the-badge&color=02569B" alt="followers" />
+</a>
+<a href="https://github.com/MohFauziSlamet?tab=repositories&sort=stargazers">
+  <img src="https://img.shields.io/github/stars/MohFauziSlamet?label=Stars&style=for-the-badge&color=02569B" alt="stars" />
+</a>
 
 </div>
 
