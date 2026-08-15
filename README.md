@@ -43,6 +43,22 @@ class Fauzi {
 
 ---
 
+### 🔨 Currently Building
+
+> **Mocca POS** — sistem kasir *offline-first* untuk UMKM. Repo private, jadi di sini hanya ceritanya.
+
+| Bagian | Stack | Yang menarik |
+|---|---|---|
+| **Mobile App** | Flutter · Riverpod · Drift (SQLite) | Jalan penuh tanpa internet; sinkronisasi menyusul saat online |
+| **Purchase Ledger** | Drift · SQL | Stok & harga modal bukan input manual — hasil turunan **FIFO lot** dari faktur pembelian, dengan *cost snapshot* imutabel supaya laporan laba historis tidak ikut berubah |
+| **Backend** | Go · PostgreSQL | Migrasi dari BaaS ke backend sendiri |
+| **CMS** | Next.js · TypeScript · Tailwind | Clean Architecture, kelola katalog SKU global |
+| **Backup** | Cloudflare R2 · Google Drive | Dua penyedia di balik satu kontrak `BackupRepository`, dipilih lewat *flavor config* |
+
+<sub>Sekitar 95% kontribusi saya setahun terakhir masuk ke repo private seperti ini — grafik di bawah sudah menghitungnya.</sub>
+
+---
+
 ### 🛠️ Tech Stack
 
 #### **Languages**
@@ -68,10 +84,10 @@ class Fauzi {
 
 #### **Backend & Database**
 <p>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Drift-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
